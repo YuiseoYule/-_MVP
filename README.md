@@ -63,7 +63,3 @@ GOOGLE_APPLICATION_CREDENTIALS=path/to/your/gcp-credentials.json
 
 ---
 
-## 🌐 배포 (Deployment)
-
-이 프로젝트는 [Vercel 플랫폼](https://vercel.com/new)을 통해 가장 쉽고 간편하게 배포할 수 있습니다.
-배포와 관련된 상세 설명은 [Next.js 배포 문서](https://nextjs.org/docs/pages/building-your-application/deploying)를 참고하세요.
