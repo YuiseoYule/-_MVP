@@ -1,0 +1,86 @@
+[
+  {
+    "name": "대학동 주민센터 (Daehak-dong Community Center)",
+    "type": "public",
+    "lat": 37.469389,
+    "lng": 126.935105,
+    "address": "서울특별시 관악구 신림로17길 35 (대학동)"
+  },
+  {
+    "name": "관악경찰서 신림지구대 (Sillim Police Box)",
+    "type": "public",
+    "lat": 37.472097,
+    "lng": 126.932906,
+    "address": "서울특별시 관악구 신림로 97 (대학동)"
+  },
+  {
+    "name": "서울관악소방서 대학119안전센터 (Daehak 119 Safety Center)",
+    "type": "public",
+    "lat": 37.465191,
+    "lng": 126.944358,
+    "address": "서울특별시 관악구 신림로 39 (대학동)"
+  },
+  {
+    "name": "대학동 치안센터 (Daehak-dong Police Substation)",
+    "type": "public",
+    "lat": 37.467811,
+    "lng": 126.935702,
+    "address": "서울특별시 관악구 신림로11길 20 (대학동)"
+  },
+  {
+    "name": "관악문화재단 글빛정보도서관 (Geulbit Information Library)",
+    "type": "public",
+    "lat": 37.469441,
+    "lng": 126.935105,
+    "address": "서울특별시 관악구 신림로17길 35 (대학동, 대학동주민센터 2층)"
+  },
+  {
+    "name": "서울대학교 보건소 (Seoul National University Health Service Center)",
+    "type": "public",
+    "lat": 37.459415,
+    "lng": 126.953042,
+    "address": "서울특별시 관악구 대학로 1 (대학동, 서울대학교 63동)"
+  },
+  {
+    "name": "신림현대의원 (Sillim Hyundai Clinic)",
+    "type": "hospital",
+    "lat": 37.470556,
+    "lng": 126.933333,
+    "address": "서울특별시 관악구 신림로 118 (대학동)"
+  },
+  {
+    "name": "성모내과의원 (Sungmo Internal Medicine Clinic)",
+    "type": "hospital",
+    "lat": 37.471661,
+    "lng": 126.932782,
+    "address": "서울특별시 관악구 신림로 108 (대학동)"
+  },
+  {
+    "name": "대학동창조이비인후과의원 (Daehakdong Changjo Ear, Nose and Throat Clinic)",
+    "type": "hospital",
+    "lat": 37.470984,
+    "lng": 126.932988,
+    "address": "서울특별시 관악구 신림로 114 (대학동, 2층)"
+  },
+  {
+    "name": "서울위드유외과의원 (Seoul With U Surgery Clinic)",
+    "type": "hospital",
+    "lat": 37.472504,
+    "lng": 126.932335,
+    "address": "서울특별시 관악구 신림로 85 (대학동)"
+  },
+  {
+    "name": "고시촌365의원 (Goshichon 365 Clinic)",
+    "type": "hospital",
+    "lat": 37.469115,
+    "lng": 126.936052,
+    "address": "서울특별시 관악구 신림로15길 10 (대학동)"
+  },
+  {
+    "name": "대학동서울치과의원 (Daehakdong Seoul Dental Clinic)",
+    "type": "hospital",
+    "lat": 37.470221,
+    "lng": 126.933512,
+    "address": "서울특별시 관악구 신림로 125 (대학동, 3층)"
+  }
+]
